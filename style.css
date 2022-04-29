@@ -1,0 +1,15 @@
+/*seletor de tag*/
+h1 {
+  color: red;
+  font-size: 50px;
+}
+/*seletor de id*/
+#tituloPrincipal {
+  color: red;
+  font-size: 50px;
+}
+/*seletor de classe*/
+.titulosSistema {
+  color: red;
+  font-size: 50px;
+}
